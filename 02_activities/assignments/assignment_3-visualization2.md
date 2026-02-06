@@ -11,8 +11,9 @@
 This visualization was created using Python, with pandas for data cleaning, grouping, and aggregation, and matplotlib for generating the bar chart.
 
 ## Dataset source: https://data.ontario.ca/dataset/2021-22-schools-with-recent-covid-19-cases
-## first visualization: "Total confirmed COVID-19 cases reported in Ontario schools (daily)"
+
 ## second visualization: "Top 10 school boards by total confirmed school COVID-19 cases (Sep–Dec 2021)"
+
     > Who is your intended audience? 
 
     The intended audience includes education policymakers, school board administrators, public health officials, and community stakeholders interested in comparing reported COVID-19 case counts across school boards.
